@@ -7,7 +7,7 @@ Click on the photos to see academic profiles current and alumni staff and studen
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/gavin-pereira-0374b4b1/"><img src="https://dxybwjmxea64j.cloudfront.net/gavin-pereira-0374b4b1.png?ver=0.20867476376711225" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
+| **Prof Gavin Pereira** <br/> <a href="https://scholar.google.com/citations?hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=m27YBy8AAAAJ&citpid=7" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
 | **Dr Gizachew Tessema** <br/> <a href="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=x61kRTgAAAAJ&citpid=29"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=x61kRTgAAAAJ&citpid=29" width="300" alt="Gizachew Tessema"></a> | co-Head of Lab | Reproductive health|
 | **Dr Annette Regan** <br/> <a href="https://staffportal.curtin.edu.au/staff/profile/view/annette-regan-a3602cf2/"><img src="https://s3-ap-southeast-2.amazonaws.com/curtin-staff-profile-images-prd/annette-regan-a3602cf2.jpg?ver=0.869428033017676" width="300" alt="Annette Regan"></a> | Project Lead (USFCA) | Infectious disease and vaccination|
 | **Dr Michael (Luke) Marinovich** <br/> | Project Lead  | Health service technology |
