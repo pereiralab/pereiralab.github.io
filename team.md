@@ -31,6 +31,11 @@ Click on the photos to see the research profiles
 | **Tongyang (Eric) Wu**   | PhD Candidate | Long-term Exposure to Ambient Air Pollutants and the Risk of Metabolic Syndrome and Elevated White Blood Cell Count among Adults in Liangshan, China |
 | **Wei Shan (Cassandra) Chong**  | PhD Candidate | Allergens, phenolic composition, and anti-microbial properties of Australian wattle seed species |
 | **Julian Harrison** | MPhil Candidate | Untangling the association between dementia and dementia: timing, population attributable fractions and risk modelling |
+| **Teya Duggleby** | Project Coordinator | Coordinates projects for the Epidemiology Research Lab |
+
+# Consumer and community representatives
+
+* The lab acknowledges the valuable contributions from the following consumer and community representatives: Catherine Hughes, Hayley Hawkins, Katarina Barjaktarevic, Zoe Malski, Shirouz Elango
 
 # Funders of the lab
 
