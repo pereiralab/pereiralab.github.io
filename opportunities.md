@@ -5,7 +5,7 @@ title: "Opportunities"
 
 #  Career Opportunities
 
-We host visiting scholars and are happy to collaborate on research projects related to our field or help develop applications for funding. Occassionally there is funding for short-term projects for postdocs. Research fellow positions for our team are advertised on the [institution's job portal](http://staff.curtin.edu.au/job-vacancies/#linkid=um-about-jobs-at-curtin-see-job-vacancies) but will also be posted here.
+We host visiting scholars and are happy to collaborate on research projects related to our field or help develop applications for funding. Occassionally there is funding for short-term projects for postdocs. Research fellow positions for our team are advertised on the [institution's job portal](http://staff.curtin.edu.au/job-vacancies/#linkid=um-about-jobs-at-curtin-see-job-vacancies) but will also be posted here. Note that dead links implies that either the closing date has passed or the position has been filled.
 
 Closing date 9 December 2021
 * [Recruiting two early career research associates](http://staff.curtin.edu.au/job-vacancies/?ja-job=401044)  
@@ -13,19 +13,16 @@ Closing date 9 December 2021
 # Training Opportunities
 
 **Honours**  
-If you have an undergraduate degree in a public health, health science or a related field you can apply to undertake Public Health honours, which takes one year and provides a pathway to PhD research. Find out more and apply [here](
+If you have an undergraduate degree in a public health, health science or a related field you can apply to undertake Public Health honours, which takes one year and provides a pathway to PhD research. Contact a memberr of the team before you apply. Find out more and apply [here](
 https://study.curtin.edu.au/offering/course-ug-public-health-honours-major-bsc-health-hons--mjrh-phlth)
 
 **PhD**  
-We take students with a first class honours degree or a Master degree. [Apply Now!](https://apply.curtin.edu.au/before-you-start?spkCode=DR-PUBHL)
+We take students with a first class honours degree or a Master degree with high academic scores, preferably with a course-weighted average of 85%+, a 4-point GPA of 3.8+, a 7-point GPA of 6.5+. Contact a member of the team before you apply. [Apply Now!](https://www.curtin.edu.au/study/offering/course-research-doctor-of-philosophy---public-health--dr-pubhl/)
 
 ## PhD Scholarships
+It is important to contact a member of the team before you apply for a PhD scholarship as the application needs to be developed in collaboration with the proposed supervisor for it to be competitive.
 
-Do you need a PhD scholarship to pay your tuition fees and provide a living stipend? Every year the university advertises scholarships. They usually open June or July and close in August. They are [advertised here](https://scholarships.curtin.edu.au/). You can contact us to help develop a project proposal. 
-
-Scholarships by residency status
-* [Scholarships for Australian Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/rtp-policy/)
-* [Scholarships for International Students - Applications open July 8th - Remember to contact one of our team before applying](https://scholarships.curtin.edu.au/hdr-scholarships-funding/curtin-strategic-scholarships/)
+Do you need a PhD scholarship to pay your tuition fees and provide a living stipend? Every year the university advertises scholarships. They usually open June or July and close in August. They are [advertised here](https://scholarships.curtin.edu.au/). You should contact us to help develop a PhD application. 
 
 In addition, there are strategic scholarships where the project is already specified. Some are for international students. Others are for only domestic students. They are listed below. Note that dead links implies that either the closing date has passed or the scholarship has been taken.
 
