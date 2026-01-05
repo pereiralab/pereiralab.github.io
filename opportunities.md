@@ -26,6 +26,10 @@ Do you need a PhD scholarship to pay your tuition fees and provide a living stip
 
 In addition, there are strategic scholarships where the project is already specified. Some are for international students. Others are for only domestic students. They are listed below. Note that dead links implies that either the closing date has passed or the scholarship has been taken.
 
+Closing date 31 March 2026
+* From Accuracy to Equity: Fairness Methods for Stillbirth Risk Assessment (Domestic candidates). Opening soon.
+* Advancing health through quantitative population health research (International or Domestic candidates). Opening soon.
+
 Closing date 18 August 2024
 * [Climate-related exposure and health: what would it take to change our decision-making?](https://scholarships.curtin.edu.au/Scholarship/?id=7200)
 * [Geospatial mapping of heat and vulnerability of populations to heat in Australia](https://scholarships.curtin.edu.au/Scholarship/?id=7218)
