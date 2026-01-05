@@ -1,4 +1,4 @@
-<img width="395" height="74" alt="image" src="https://github.com/user-attachments/assets/e7339904-e1e2-4f2f-9f49-5cfa6a6eb34b" /><img width="370" height="74" alt="image" src="https://github.com/user-attachments/assets/8cc66a14-fd37-49ce-96d9-beb613f4e291" /><img width="385" height="74" alt="image" src="https://github.com/user-attachments/assets/f25c528e-6d6b-4ebc-ba32-f5668d826464" />---
+>---
 type: page
 title: "Team"
 ---
