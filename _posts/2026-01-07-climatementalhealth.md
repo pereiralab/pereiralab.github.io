@@ -29,4 +29,4 @@ The message is clear: protecting mental health must be part of how we respond to
 
 **References**
 * Nori-Sarma A, Galea S. Climate change and mental health: a call for a global research agenda. The Lancet Psychiatry. 2024 May 1;11(5):316-7.
-* [Connecting Climate Minds Hub. (n.d.). Welcome to the Connecting Climate Minds Hub. Retrieved Jan 2026, from] (https://hub.connectingclimateminds.org/en)
+* [Connecting Climate Minds Hub. Welcome to the Connecting Climate Minds Hub. Retrieved 7 Jan 2026](https://hub.connectingclimateminds.org/en)
