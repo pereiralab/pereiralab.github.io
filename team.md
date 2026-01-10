@@ -30,11 +30,10 @@ Meet the team's digital twins. Click on an Avatar images to see the research pro
 **Dr Annette Regan** (Adj Associate Professor Kaiser Permanente) Infectious disease
 
 <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="/assets/BA Avatar.png" width="200" alt="Bereket Adema"></a>  
-**Dr Bereket Adema** (Senior Reseasrch Fellow Torrens University) Substance Use
+**Dr Bereket Adema** (Senior Research Fellow Torrens University) Substance Use
 
-<br>
-<br>
 Meet the higher degree research students
+
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
 | **Bereket Kefale** | PhD Candidate | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
