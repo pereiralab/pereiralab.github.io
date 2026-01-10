@@ -3,10 +3,24 @@ type: page
 title: "Team"
 ---
 
-**Prof Gavin Pereira**
- <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar.png" width="200" alt="Gavin Pereira"></a>  
-co-Head of Lab 
-Epidemiology. [Website...](https://gavinfpereira.github.io/)
+ <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar2.png" width="200" alt="Gavin Pereira"></a>  
+**Prof Gavin Pereira** (co-Head) Epidemiology [Website...](https://gavinfpereira.github.io/)
+
+<a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="/assets/GT Avatar.png" width="200" alt="Gizachew Tessema"></a><br>
+**Assoc Prof Gizachew Tessema** (co-Head) Public Health
+
+<a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="/assets/KW Avatar.png" width="200" alt="Kingsley Wong"></a><br>
+**Dr Kingsley Wong** (Senior Research Fellow & PhD Candidate) Prediction of perinatal mortality and morbidity with machine learning 
+
+**Dr Emmanuel Adewuyi** <br/> <a href="https://scholar.google.com/citations?hl=en&user=a-B2-84AAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=a-B2-84AAAAJ&citpid=6" width="300" alt="Emmanuel Adewuyi"></a> | Research Fellow  | Genomics and neurological morbidity 
+
+**Dr Sylvester Nyadanu** <br/> <a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y3pG-UAAAAAJ&citpid=1" width="300" alt="Sylvester Nyadanu"></a> | Research Associate  | Air pollution, temperature extremes and health 
+
+**Dr Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="300" alt="Amanuel Gebremedhin"></a> | Project Lead (Edith Cowan University)  | Pregnancy complications 
+
+**Dr Annette Regan** <br/> <a href="https://scholar.google.com/citations?hl=en&user=Pu3L9HkAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Pu3L9HkAAAAJ&citpid=4" width="300" alt="Annette Regan"></a> | Project Lead (Kaiser Permanente) | Infectious disease 
+
+**Dr Bereket Adema** <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=l47XlroAAAAJ&citpid=6" width="300" alt="Bereket Adema"></a>  | Research Fellow (Torrens University)  | Prenatal substance use, offspring addiction and mental health 
 
 Click on the photos to see the research profiles 
 
