@@ -3,6 +3,8 @@ type: page
 title: "Team"
 ---
 
+Meet the team. Click on the photos to see the research profiles 
+
  <a href="https://scholar.google.com/citations hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="/assets/GP Avatar2.png" width="200" alt="Gavin Pereira"></a>  
 **Prof Gavin Pereira** (co-Head) Epidemiology [Website...](https://gavinfpereira.github.io/)
 
@@ -10,30 +12,26 @@ title: "Team"
 **Assoc Prof Gizachew Tessema** (co-Head) Public Health
 
 <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="/assets/KW Avatar.png" width="200" alt="Kingsley Wong"></a><br>
-**Dr Kingsley Wong** (Senior Research Fellow & PhD Candidate) Prediction of perinatal mortality and morbidity with machine learning 
+**Dr Kingsley Wong** (Senior Research Fellow) Machine Learning
 
-**Dr Emmanuel Adewuyi** <br/> <a href="https://scholar.google.com/citations?hl=en&user=a-B2-84AAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=a-B2-84AAAAJ&citpid=6" width="300" alt="Emmanuel Adewuyi"></a> | Research Fellow  | Genomics and neurological morbidity 
+<a href="https://scholar.google.com/citations?hl=en&user=a-B2-84AAAAJ"><img src="/assets/EA Avatar.png" width="200" alt="Emmanuel Adewuyi"></a><br>
+**Dr Emmanuel Adewuyi** (Senior Research Fellow) Genomics  
 
-**Dr Sylvester Nyadanu** <br/> <a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y3pG-UAAAAAJ&citpid=1" width="300" alt="Sylvester Nyadanu"></a> | Research Associate  | Air pollution, temperature extremes and health 
+<a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="/assets/SN Avatar.png" width="200" alt="Sylvester Nyadanu"></a><br>
+ **Dr Sylvester Nyadanu** (Senior Research Fellow) Environmental Health
 
-**Dr Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="300" alt="Amanuel Gebremedhin"></a> | Project Lead (Edith Cowan University)  | Pregnancy complications 
+<a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="/assets/AG Avatar.png" width="200" alt="Amanuel Gebremedhin"></a><br>
+**Dr Amanuel Gebremedhin** (Senior Research Fellow ECU) Reproductive Complications  
 
-**Dr Annette Regan** <br/> <a href="https://scholar.google.com/citations?hl=en&user=Pu3L9HkAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Pu3L9HkAAAAJ&citpid=4" width="300" alt="Annette Regan"></a> | Project Lead (Kaiser Permanente) | Infectious disease 
+ <br/> <a href="https://scholar.google.com/citations?hl=en&user=Pu3L9HkAAAAJ"><img src="/assets/AR Avatar.png" width="200" alt="Annette Regan"></a><br>   
+**Dr Annette Regan** (Adj Associate Professor Kaiser Permanente) Infectious disease
 
-**Dr Bereket Adema** <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=l47XlroAAAAJ&citpid=6" width="300" alt="Bereket Adema"></a>  | Research Fellow (Torrens University)  | Prenatal substance use, offspring addiction and mental health 
+<br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="/assets/BA Avatar.png" width="200" alt="Bereket Adema"></a>  
+**Dr Bereket Adema** (Senior Reseasrch Fellow Torrens University) Substance Use
 
-Click on the photos to see the research profiles 
 
 | Name | Role | Topic |
 | --------------- | --------------- | --------------- |
-| **Prof Gavin Pereira** <br/> <a href="https://scholar.google.com/citations?hl=en&user=m27YBy8AAAAJ&view_op=list_works&gmla=AElLoL0sTGjcEAACcOUaP1IApXM3CVuKNeGxtn9M0ht4Ng_3i6sZp1NUEaMBB_gWamK_X_GN-SwMFWFs0Irt9WcA"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=m27YBy8AAAAJ&citpid=7" width="300" alt="Gavin Pereira"></a> | co-Head of Lab | Epidemiology. [Website...](https://gavinfpereira.github.io/) |
-| **Assoc Prof Gizachew Tessema** <br/> <a href="https://scholar.google.com/citations?hl=en&user=x61kRTgAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=x61kRTgAAAAJ&citpid=41" width="300" alt="Gizachew Tessema"></a> | co-Head of Lab | Reproductive health|
-| **Dr Kingsley Wong** <br/> <a href="https://scholar.google.com/citations?user=ER0sUxwAAAAJ&hl=en&oi=ao"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ER0sUxwAAAAJ&citpid=1" width="300" alt="Kingsley Wong"></a> | Senior Research Fellow & PhD Candidate  | Prediction of perintal mortality and morbidity with machine learning |
-| **Dr Emmanuel Adewuyi** <br/> <a href="https://scholar.google.com/citations?hl=en&user=a-B2-84AAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=a-B2-84AAAAJ&citpid=6" width="300" alt="Emmanuel Adewuyi"></a> | Research Fellow  | Genomics and neurological morbidity |
-| **Dr Sylvester Nyadanu** <br/> <a href="https://scholar.google.com.au/citations?hl=en&user=Y3pG-UAAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y3pG-UAAAAAJ&citpid=1" width="300" alt="Sylvester Nyadanu"></a> | Research Associate  | Air pollution, temperature extremes and health | 
-| **Dr Amanuel Gebremedhin** <br/> <a href="https://scholar.google.com/citations?user=JGs1vkYAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JGs1vkYAAAAJ&citpid=11" width="300" alt="Amanuel Gebremedhin"></a> | Project Lead (Edith Cowan University)  | Pregnancy complications |
-| **Dr Annette Regan** <br/> <a href="https://scholar.google.com/citations?hl=en&user=Pu3L9HkAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Pu3L9HkAAAAJ&citpid=4" width="300" alt="Annette Regan"></a> | Project Lead (Kaiser Permanente) | Infectious disease |
-| **Dr Bereket Adema** <br/> <a href="https://scholar.google.com/citations?user=l47XlroAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=l47XlroAAAAJ&citpid=6" width="300" alt="Bereket Adema"></a>  | Research Fellow (Torrens University)  | Prenatal substance use, offspring addiction and mental health |
 | **Bereket Kefale** <br/> <a href="https://scholar.google.com/citations?hl=en&user=auD3V2kAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=auD3V2kAAAAJ&citpid=3" width="300" alt="*Bereket Kefale"></a> | PhD Candidate  | Under-five mortality in the era of sustainable development goals in low- and middle-income countries: burden and trends |
 | **Tsegaye Haile** <br/> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Kr7YcUOuOhH9ts9im3bvruXe5DYYhsKlJzb7DNYuSSnEkZOdaUaMu8UJVKwlTdPzvT2uW5Mtq2Q5Ww1nOtptY6cryTg&user=C1ZU3usAAAAJ"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=C1ZU3usAAAAJ&citpid=1" width="300" alt="Tsegaye Haile"></a> | PhD Candidate  | Economic Burden of Adverse Perinatal Outcomes from Births to Age Five Years in Australia |
 | **Melaku Birhanu Alemu** <br/> <a href="https://scholar.google.com.au/citations?user=uLZSI9sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=uLZSI9sAAAAJ&citpid=3" width="300" alt="Melaku Birhanu Alemu"></a> | PhD Candidate  | Stated preference research on reproductive and sexual health services for adolescents and young people: A discrete choice experiment |
